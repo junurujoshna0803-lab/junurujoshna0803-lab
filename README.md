@@ -1,62 +1,70 @@
 # Hi, I'm Junuru Joshna 👋
 
-Aspiring Data Analyst and B.Tech Computer Science Engineering student passionate about transforming data into actionable insights.
+Aspiring Data Analyst and B.Tech Computer Science Engineering student passionate about transforming data into actionable insights using Python, SQL, and visualization tools.
 
-## Skills
+---
 
-* Python
-* SQL
-* Power BI
-* Excel
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Git & GitHub
+## 📊 About Me
+- 🎓 CSE Student passionate about Data Analytics
+- 📈 Interested in Data Analysis, Business Intelligence & Visualization
+- 🧠 Strong focus on Python, SQL, and real-world data projects
+- 🚀 Building a strong portfolio for Data Analyst roles
 
-## Projects
+---
 
-### Data Analytics
+## 🛠️ Skills
 
-* IPL EDA Project
-* Employee Attrition Analysis
-* SQL Sales Analysis
-* Power BI Sales Dashboard
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Power BI
+- Excel
+- Data Cleaning & EDA
+- Git & GitHub
 
-### Web Development
+---
 
-* Student Portfolio Website
+## 📁 Projects
 
-## Certifications
+### 📊 Data Analytics Projects
 
-* Deloitte Data Analytics Job Simulation
-* Tata GenAI Powered Data Analytics Simulation
-* HP LIFE Data Science & Analytics
-* Infosys Springboard Courses
+- 📌 **Customer Churn Analysis**
+  - Performed exploratory data analysis to identify factors affecting customer retention
+  - Used Python, Pandas, and Seaborn for data cleaning and visualization
+  - Generated business insights to understand churn patterns
 
-## Currently Learning
+- 📌 IPL EDA Project
+- 📌 Employee Attrition Analysis
+- 📌 SQL Sales Analysis
+- 📌 Power BI Sales Dashboard
 
-* Advanced SQL
-* Power BI
-* Data Visualization
-* Business Analytics
+---
 
-## Connect With Me
+### 💻 Web Development
 
-* LinkedIn: [www.linkedin.com/in/junuru-joshna-a1ba013142](http://www.linkedin.com/in/junuru-joshna-a1ba013142)
-* GitHub: github.com/junurujoshna0803-lab
+- Student Portfolio Website
 
-<!--
-**junurujoshna0803-lab/junurujoshna0803-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📜 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Deloitte Data Analytics Job Simulation  
+- Tata GenAI Powered Data Analytics Simulation  
+- HP LIFE Data Science & Analytics  
+- Infosys Springboard Courses  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL  
+- Power BI (Advanced Dashboards)  
+- Data Visualization Techniques  
+- Business Analytics  
+
+---
+
+## 🌐 Connect With Me
+
+- Email:junurujoshna0803@gmail.com
+- LinkedIn: www.linkedin.com/in/junuru-joshna-a1ba013142  
+- GitHub: github.com/junurujoshna0803-lab 
